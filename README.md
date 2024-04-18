@@ -1,2 +1,4 @@
-# No-es-de-Simula-o---Resolu-o-de-exerc-cios
-Resolução dos exercícios  "Noções de Simulação". Capítulo 9 - Estatística básica (Bussab &amp; Morettin) - 9. ed
+# Resolução do Capítulo 9 - Noções de Simulação
+
+Este repositório contém, em Python, a resolução do Capítulo 9 do livro Estatística Básica de Wilton O. Bussab e Pedro A. Morettin - 9. ed. O capítulo aborda as principais noções iniciais de simulação computacional para a geração de valores aleatórios.
+ 
