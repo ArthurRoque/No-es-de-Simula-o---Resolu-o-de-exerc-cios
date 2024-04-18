@@ -1,10 +1,6 @@
 # Resolução do Capítulo 9 - Noções de Simulação
 
 Este repositório contém, em Python, a resolução do Capítulo 9 (Estatística Básica de Wilton O. Bussab e Pedro A. Morettin - 9. ed). O capítulo aborda as principais noções iniciais de simulação computacional para a geração de valores aleatórios.
-
-
-![Monte Carlo simulation]('https://j.gifs.com/qQ7BNp.gif')
-
  
 ### Geração de Valores Pseudoaleatórios
 A simulação computacional é uma ferramenta poderosa para compreender e prever o comportamento de sistemas complexos. Um dos pilares da simulação é a capacidade de gerar números aleatórios que sigam distribuições específicas. Esse tópico não é um tópico simples da programação por ter uma natureza divergente à computação tradicional. Enquanto a programação é, em essência, a definição de processos por meio de algoritmos, a geração de números aleatórios tem como pressuposto um processo não determinístico.
